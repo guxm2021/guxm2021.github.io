@@ -1,1 +1,1 @@
-This is the Xiangming Gu's public academic website: https://jonbarron.info/. The template source code was borrowed from https://jonbarron.info/.
+This is the Xiangming Gu's public academic website: https://guxm2021.github.io/guxm.github.io/.
